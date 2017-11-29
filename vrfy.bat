@@ -1,0 +1,1 @@
+jarsigner -verify -verbose -certs platforms/android/build/outputs/apk/%1.apk

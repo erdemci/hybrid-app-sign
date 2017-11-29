@@ -1,0 +1,1 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore %1.keystore platforms/android/build/outputs/apk/android-release-unsigned.apk %1

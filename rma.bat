@@ -1,0 +1,1 @@
+cordova platform rm android
